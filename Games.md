@@ -1,4 +1,28 @@
 
 
-##### For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract
-Note: I'm not that fast so all games might not be on the newest version, so sorry.
+##### For .rar and .7z files, use [7z/7Zip](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view?usp=sharing) to extract (borrowed from Project Bradnails)
+Note: I'm not that fast so all games might not be on the newest version, so sorry. Most games will probably work as they were intended but some games that are little bit big are kinda laggy though.
+Also you may notice some older games like Peggle and Super Collapse 3. I kinda wanted to include some older gems in here that way one random kid would say “Hey I remember that!”.
+- [Plants vs. Zombies](https://drive.google.com/file/d/10ysvS9pasZ-jcSfQvHi_uvfCQGow3ujP/view?usp=sharing)
+- [Super Collapse 3](https://drive.google.com/file/d/1l8OwE9_ObQw8VkCuPdLWKPIsRGX1-wrM/view?usp=sharing)
+- [Peggle Deluxe](https://drive.google.com/file/d/1Pq_52gD3SA_zQSsamgCkMb0AB10FkMEc/view?usp=sharing)
+- [Peggle Extreme (The Valve demo of Peggle)](https://drive.google.com/file/d/1PjtuRq0V_8n7BXljt_yOT2ZSV0qlBVYD/view?usp=sharing)
+- [People Playground](https://drive.google.com/file/d/1Jc65MPdLE4288ibXskQqCK3dDqJ8j0KO/view?usp=sharing)
+- [Mutilate-a-Doll 2](https://drive.google.com/file/d/16VSy0qCsuD4A8ptMtqRYHSj-1bg3KRYp/view?usp=sharing)
+- [Bejeweled 2](https://drive.google.com/file/d/1mYpxMHqZzkKKa7_hHE24MQ4fXILuRGv3/view?usp=sharing)
+- [Chuzzle Deluxe](https://drive.google.com/file/d/1TsnSCPs_JJ4GhD8wMT8U4YoUukqtAxEM/view?usp=sharing)
+- [The Catacombs of Solaris Revisited](https://drive.google.com/file/d/1633BXRQVJzz0x-y3AMEsITuKvoujlmhk/view?usp=sharing)
+- [Baldi's Basics Plus](https://drive.google.com/file/d/1uXvzyDWndVwu9ue3TgqvVAi6VMouWYGl/view?usp=sharing)
+- [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
+- [Hello Kiity and Sanrio Friends Racing](https://drive.google.com/file/d/1hivgFW42TmZPe2nxePbCksPD8TnxzjW0/view?usp=sharing)
+- [N++](https://drive.google.com/file/d/1f1zpPyHEtoVQQMLdhy8LutBL9xI46O5Z/view?usp=sharing)
+- [DOOM (2020 Remastered Version)](https://drive.google.com/file/d/14Uz0-XzykaInbwYnRsYn8rWg7Qz9VzNl/view?usp=sharing)
+- [Marble Blast Platinum (with Platinum CLA + One Hello Kitty skin)](https://drive.google.com/file/d/1bKAkiDCno-RDXXzZ9BG-nvrN2qTid9ZP/view?usp=sharing)
+- [Quake 3 Arena](https://drive.google.com/file/d/1hvT7AnS9bY1g1Vd3gW1ep9UxDVZoFeHz/view?usp=sharing)
+- [Karlson](https://drive.google.com/file/d/1j3fSuwTrGKnG0LGD37bqtsQ6zBu7640x/view?usp=sharing)
+- [Mari0 (Super Mario Bros. but with Portal)](https://drive.google.com/file/d/1hD_RhxZgkPpfLZfmm20-rZYE6-m0ZhL3/view?usp=sharing)
+- [Milkman Karlson](https://drive.google.com/file/d/1oQAv1RuRz-FBbpNqN-KmtinukrNardTH/view?usp=sharing)
+- [Pokemon Fusion Generation](https://drive.google.com/file/d/17vNnch4LIrE4r_W33b1ENXmK3QI45r-n/view?usp=sharing)
+- [Games from Windows 7/Vista (Chess, Purble Place, Inkball, Minesweeper, etc)](https://drive.google.com/file/d/1EetuYXgXwPZaqW_c6-iXyxO4_ftPRZgA/view?usp=sharing)
+- [Sandtrix (Tetris but it's sand)](https://drive.google.com/file/d/1dp8FV93yUhjkbap11fb5MEQSVWBqYS1o/view?usp=sharing)
+- [Angry Birds (PC Port)](https://drive.google.com/file/d/1LXAIz7bESdXNuNwps7Mm0bP1IfzsdBBy/view?usp=sharing)
