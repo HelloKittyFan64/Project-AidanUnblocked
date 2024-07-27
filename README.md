@@ -1,4 +1,4 @@
-[![](LeEpicHeader.png?raw=true)](https://github.com/Project-AidanUnblocked/tree/main)
+[![](LeEpicHeader.png?raw=true)](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/README.md)
 
 
 ## About This Project
@@ -15,6 +15,8 @@
 [My YouTube!](https://www.youtube.com/@gdaidantahanyt/xregexp)
 
 [Games](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
+
+[Other Software]()
 
 ## Installation (litteraly copied from Project Bradnails)
 1. Open game link from the [Games List](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
