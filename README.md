@@ -14,13 +14,13 @@
 
 [My YouTube!](https://www.youtube.com/@gdaidantahanyt/xregexp)
 
-[Games]()
+[Games](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
 
 ## Installation (litteraly copied from Project Bradnails)
-1. Open game link from the [Games List]()
+1. Open game link from the [Games List](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
 2. Download from Google Drive
 3. Make a folder, preferably in your main C: drive for your games
-4. If compressed, extract the game (use [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view) for .rar and .7z)
+4. If compressed, extract the game (use [7zip portable](https://drive.google.com/file/d/1by7I72v0vP8VvdlOQaE5SnwC3zSoam6z/view) for .rar and .7z) (borrowed from Project Bradnails)
 5. Go to properties, scroll down and uncheck the 'blocked' box
 6. Disable your internet
 7. Open the .exe
@@ -42,6 +42,15 @@ I'm really up for requests but I don't really have a Discord server dedicated to
 - *Will I get caught*
 
 If you are really stupid then yes. If you've followed my advice, you should be in the green.
+
+- *Why chose Google Drive?*
+
+It's unblocked on school computers plus I dont want any problems on my GitHub account.
+
+- *Why do this in the first place?*
+
+I could cure many kids and tennagers boredom at school while adding more content to cure even more kids and teenagers boredom!
+
 
 
 ## About The Dev
