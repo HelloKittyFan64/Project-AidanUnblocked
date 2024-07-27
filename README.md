@@ -16,7 +16,7 @@
 
 [Games](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
 
-[Other Software]()
+[Other Software](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/other%20software.md)
 
 ## Installation (litteraly copied from Project Bradnails)
 1. Open game link from the [Games List](https://github.com/HelloKittyFan64/Project-AidanUnblocked/blob/main/Games.md)
