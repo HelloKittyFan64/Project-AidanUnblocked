@@ -29,3 +29,5 @@ Also you may notice some older games like Peggle and Super Collapse 3. I kinda w
 - [Angry Birds (PC Port)](https://drive.google.com/file/d/1LXAIz7bESdXNuNwps7Mm0bP1IfzsdBBy/view?usp=sharing)
 - [LockJaw (a more professional version of Tetris)](https://drive.google.com/file/d/1FtZnG4ES1ArCtzhnizyhxTRfOiT8E-nq/view?usp=sharing)
 - [Stepmania 5 (with 29 other custom songs)](https://drive.google.com/file/d/1CpaKfl5FjhB0Nz57XVtH1txtkgRTVhP2/view?usp=sharing)
+- [FNF: RodentRap](https://drive.google.com/file/d/1P6Yx9cSy_tdiM-r_x31GvS59z9gaBZLy/view?usp=sharing)
+- [FNF: TWIDDLEFINGER](https://drive.google.com/file/d/1D0RyR91kVNv3VqJwDOh2Fy2Slg05IEtz/view?usp=sharing)
