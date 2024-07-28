@@ -7,7 +7,7 @@
 -GD AidanTahan YT
 
 ## Disclamer!
-### **I am not responible if you do something bad. It's not my fault you get caught doing something really stupid. This is for basically everyone.
+### *I am not responible if you do something bad. It's not my fault you get caught doing something really stupid. This is for basically everyone.*
 ###### Everything here is made for Windows 10 school computers
 
 ## Links!
@@ -41,11 +41,11 @@ Just click on the game you want (which is a hyperlink) and it will redirect you 
 
 I'm really up for requests but I don't really have a Discord server dedicated to this cuz I kinda don't trust myself having a Discord community so I'll just add some more games in the coming weeks.
 
-- *Will I get caught*
+- *Will I get caught?*
 
 If you are really stupid then yes. If you've followed my advice, you should be in the green.
 
-- *Why chose Google Drive?*
+- *Why choose Google Drive?*
 
 It's unblocked on school computers plus I dont want any problems on my GitHub account.
 
