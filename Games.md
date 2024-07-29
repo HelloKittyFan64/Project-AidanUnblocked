@@ -9,7 +9,7 @@ Also you may notice some older games like Peggle and Super Collapse 3. I kinda w
 - [Peggle Extreme (The Valve demo of Peggle)](https://drive.google.com/file/d/1PjtuRq0V_8n7BXljt_yOT2ZSV0qlBVYD/view?usp=sharing)
 - [People Playground](https://drive.google.com/file/d/1Jc65MPdLE4288ibXskQqCK3dDqJ8j0KO/view?usp=sharing)
 - [Mutilate-a-Doll 2](https://drive.google.com/file/d/16VSy0qCsuD4A8ptMtqRYHSj-1bg3KRYp/view?usp=sharing)
-- [Bejeweled 2](https://drive.google.com/file/d/1mYpxMHqZzkKKa7_hHE24MQ4fXILuRGv3/view?usp=sharing)
+- [Bejeweled 2 Deluxe](https://drive.google.com/file/d/1mYpxMHqZzkKKa7_hHE24MQ4fXILuRGv3/view?usp=sharing)
 - [Chuzzle Deluxe](https://drive.google.com/file/d/1TsnSCPs_JJ4GhD8wMT8U4YoUukqtAxEM/view?usp=sharing)
 - [The Catacombs of Solaris Revisited](https://drive.google.com/file/d/1633BXRQVJzz0x-y3AMEsITuKvoujlmhk/view?usp=sharing)
 - [Baldi's Basics Plus](https://drive.google.com/file/d/1uXvzyDWndVwu9ue3TgqvVAi6VMouWYGl/view?usp=sharing)
