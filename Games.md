@@ -14,7 +14,7 @@ Also you may notice some older games like Peggle and Super Collapse 3. I kinda w
 - [The Catacombs of Solaris Revisited](https://drive.google.com/file/d/1633BXRQVJzz0x-y3AMEsITuKvoujlmhk/view?usp=sharing)
 - [Baldi's Basics Plus](https://drive.google.com/file/d/1uXvzyDWndVwu9ue3TgqvVAi6VMouWYGl/view?usp=sharing)
 - [ULTRAKILL](https://drive.google.com/file/d/1zlzME1So90GXLOU27K3q9bgHBytMuteD/view?usp=sharing)
-- [Hello Kiity and Sanrio Friends Racing](https://drive.google.com/file/d/1hivgFW42TmZPe2nxePbCksPD8TnxzjW0/view?usp=sharing)
+- [Hello Kitty and Sanrio Friends Racing](https://drive.google.com/file/d/1hivgFW42TmZPe2nxePbCksPD8TnxzjW0/view?usp=sharing)
 - [N++](https://drive.google.com/file/d/1f1zpPyHEtoVQQMLdhy8LutBL9xI46O5Z/view?usp=sharing)
 - [DOOM (2020 Remastered Version)](https://drive.google.com/file/d/14Uz0-XzykaInbwYnRsYn8rWg7Qz9VzNl/view?usp=sharing)
 - [Marble Blast Platinum (with Platinum CLA + One Hello Kitty skin)](https://drive.google.com/file/d/1bKAkiDCno-RDXXzZ9BG-nvrN2qTid9ZP/view?usp=sharing)
